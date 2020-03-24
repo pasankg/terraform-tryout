@@ -1,7 +1,7 @@
 # Terraform Tryout
 https://learn.hashicorp.com/terraform/getting-started/
 
-###Stack
+### Stack
 - MacOS
 - AWS
 
